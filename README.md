@@ -40,25 +40,6 @@
 
 ---
 
-### 🗓️ 我的贡献日历 🌈
-
-<div align="center">
-  <p>每天都在努力敲代码，色彩记录我的每一次进步！🎉</p>
-  <img src="https://raw.githubusercontent.com/Jiangbaijimo/Jiangbaijimo/main/github-contribution-grid-cal.svg" alt="Customizable Contribution Chart" width="90%" style="border-radius: 10px; box-shadow: 0 5px 15px rgba(135, 206, 250, 0.3);">
-</div>
-
----
-
-### ⏳ 我的编码时间线 (WakaTime) ⏱️
-
-<div align="center">
-  <p>代码就像时间，一点一滴累积！⏳</p>
-  <a href="https://wakatime.com/@YOUR_WAKATIME_ID">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" />
-  </a>
-  <p>（更详细的 WakaTime 图表需要你去 WakaTime 官网分享并粘贴 SVG 链接哦！➡️）</p>
-  </div>
-
 ---
 
 ### 💬 连接我！🌐
