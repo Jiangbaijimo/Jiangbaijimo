@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Jiangbaijimo/Jiangbaijimo/main/assets/header-animation.gif" alt="Welcome Header" width="90%" style="border-radius: 10px; margin-bottom: 20px; box-shadow: 0 5px 15px rgba(255, 105, 180, 0.3);">
-  <h1>Hey there! 👋 我是 <b>姜白即墨</b> ✨</h1>
+  <h1>Hey there! 👋 我是 <b>将白即墨</b> ✨</h1>
   <p>一位对前端充满热情，也热爱探索后端的魔法师！🧙‍♂️</p>
   <p>🚀 致力于用代码创造美好的用户体验！💫</p>
 </div>
